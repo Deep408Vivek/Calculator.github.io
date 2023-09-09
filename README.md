@@ -1,3 +1,3 @@
-CodSoft-Level-1-Task-3
-
+CodSoft Task-3 - Calculator
+#Calculator.github.io
 https://vivekdeep4.github.io/Calculator.github.io/
